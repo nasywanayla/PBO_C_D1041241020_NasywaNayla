@@ -1,3 +1,9 @@
+/*
+NIM : D1041241020
+Nama : Nasywa Nayla
+Program Latihan Class Persegi
+*/
+
 //Membuat Class Persegi
 class Persegi {
     //Membuat Atribut

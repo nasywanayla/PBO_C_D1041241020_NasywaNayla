@@ -1,3 +1,9 @@
+/*
+NIM : D1041241020
+Nama : Nasywa Nayla
+Program Latihan Class Mobil
+*/
+
 //Membuat Class Mobil
 class Mobil {
     //Membuat Atribut

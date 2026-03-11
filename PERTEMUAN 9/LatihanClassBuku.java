@@ -1,3 +1,9 @@
+/*
+NIM : D1041241020
+Nama : Nasywa Nayla
+Program Latihan Class Buku
+*/
+
 //Membuat sebuah kelas yaitu kelas Buku
 class Buku {
 //Mengisi Atribut
